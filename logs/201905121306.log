@@ -1,0 +1,80 @@
+2019-05-12 13:06:52,519 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:06:52,519 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:06:59,367 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:07:02,536 - BrowserEngine - INFO - Open url: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:07:02,537 - BrowserEngine - INFO - Maximize the current window.
+2019-05-12 13:07:02,537 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-05-12 13:07:04,648 - BasePage - INFO - Had type ' admin ' in inputBox
+2019-05-12 13:07:04,724 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-05-12 13:07:13,848 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:07:15,932 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:07:18,990 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:07:19,025 - BasePage - ERROR - NoSuchElementException: Message: Unable to locate element: //input[@value='23']
+
+2019-05-12 13:07:19,146 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:07:19,150 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:07:19,150 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:07:26,765 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:07:29,762 - BrowserEngine - INFO - Open url: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:07:29,762 - BrowserEngine - INFO - Maximize the current window.
+2019-05-12 13:07:29,764 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-05-12 13:07:34,146 - BasePage - INFO - Had type ' admin ' in inputBox
+2019-05-12 13:07:34,825 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-05-12 13:07:43,319 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:07:45,433 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:07:48,376 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:07:48,436 - BasePage - ERROR - NoSuchElementException: Message: Unable to locate element: //input[@value='23']
+
+2019-05-12 13:07:48,526 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:07:48,528 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:07:48,529 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:07:54,561 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:07:57,688 - BrowserEngine - INFO - Open url: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:07:57,691 - BrowserEngine - INFO - Maximize the current window.
+2019-05-12 13:07:57,692 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-05-12 13:07:59,809 - BasePage - INFO - Had type ' admin ' in inputBox
+2019-05-12 13:07:59,884 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-05-12 13:08:08,189 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:08:10,289 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:08:13,525 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:08:13,567 - BasePage - ERROR - NoSuchElementException: Message: Unable to locate element: //input[@value='23']
+
+2019-05-12 13:08:13,722 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:08:13,724 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:08:13,725 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:08:20,286 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:08:23,385 - BrowserEngine - INFO - Open url: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:08:23,386 - BrowserEngine - INFO - Maximize the current window.
+2019-05-12 13:08:23,386 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-05-12 13:08:25,490 - BasePage - INFO - Had type ' admin ' in inputBox
+2019-05-12 13:08:25,619 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-05-12 13:08:33,586 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:08:35,694 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:08:39,179 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:08:39,212 - BasePage - ERROR - NoSuchElementException: Message: Unable to locate element: //input[@value='23']
+
+2019-05-12 13:08:39,303 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:08:39,305 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:08:39,305 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:08:47,046 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:08:49,931 - BrowserEngine - INFO - Open url: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:08:49,931 - BrowserEngine - INFO - Maximize the current window.
+2019-05-12 13:08:49,932 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-05-12 13:08:52,029 - BasePage - INFO - Had type ' admin ' in inputBox
+2019-05-12 13:08:52,123 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-05-12 13:08:59,884 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:09:01,956 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:09:04,981 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:09:05,019 - BasePage - ERROR - NoSuchElementException: Message: Unable to locate element: //input[@value='23']
+
+2019-05-12 13:09:05,122 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:09:05,124 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:09:05,125 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:09:11,127 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:09:14,214 - BrowserEngine - INFO - Open url: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:09:14,214 - BrowserEngine - INFO - Maximize the current window.
+2019-05-12 13:09:14,215 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-05-12 13:09:22,364 - BasePage - INFO - Had type ' admin ' in inputBox
+2019-05-12 13:09:22,433 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-05-12 13:09:30,565 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:09:32,662 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

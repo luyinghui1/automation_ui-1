@@ -1,0 +1,34 @@
+2019-05-12 13:21:06,492 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:21:06,494 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:21:16,314 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:21:20,003 - BrowserEngine - INFO - Open url: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:21:20,003 - BrowserEngine - INFO - Maximize the current window.
+2019-05-12 13:21:20,004 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-05-12 13:21:22,324 - BasePage - INFO - Had type ' admin ' in inputBox
+2019-05-12 13:21:23,246 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-05-12 13:21:32,253 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:21:34,353 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:21:38,259 - BasePage - INFO - Sleep for 2 seconds
+2019-05-12 13:21:38,301 - BasePage - ERROR - NoSuchElementException: Message: Unable to locate element: //input[@value='23']
+
+2019-05-12 13:21:38,443 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2019-05-12 13:21:38,447 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:21:38,447 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:21:51,086 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:21:54,386 - BrowserEngine - INFO - Open url: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:21:54,387 - BrowserEngine - INFO - Maximize the current window.
+2019-05-12 13:21:54,387 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-05-12 13:21:56,564 - BasePage - INFO - Had type ' admin ' in inputBox
+2019-05-12 13:21:56,665 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-05-12 13:21:59,160 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:21:59,160 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:22:08,500 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:22:12,366 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:22:12,367 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:22:21,007 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:22:22,795 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:22:22,795 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:22:34,098 - BrowserEngine - INFO - Starting firefox browser.
+2019-05-12 13:22:36,908 - BrowserEngine - INFO - You had select Firefox browser.
+2019-05-12 13:22:36,909 - BrowserEngine - INFO - The test server url is: http://crm.91testing.net/index.php?m=user&a=login
+2019-05-12 13:22:45,033 - BrowserEngine - INFO - Starting firefox browser.

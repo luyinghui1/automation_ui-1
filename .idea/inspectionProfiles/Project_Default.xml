@@ -1,0 +1,67 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.6" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="Eve" />
+            <item index="1" class="java.lang.String" itemvalue="nose" />
+            <item index="2" class="java.lang.String" itemvalue="six" />
+            <item index="3" class="java.lang.String" itemvalue="BeautifulSoup4" />
+            <item index="4" class="java.lang.String" itemvalue="pytest" />
+            <item index="5" class="java.lang.String" itemvalue="unittest2" />
+            <item index="6" class="java.lang.String" itemvalue="boto" />
+            <item index="7" class="java.lang.String" itemvalue="ipython" />
+            <item index="8" class="java.lang.String" itemvalue="setuptools" />
+            <item index="9" class="java.lang.String" itemvalue="requests" />
+            <item index="10" class="java.lang.String" itemvalue="flake8" />
+            <item index="11" class="java.lang.String" itemvalue="chardet" />
+            <item index="12" class="java.lang.String" itemvalue="selenium" />
+            <item index="13" class="java.lang.String" itemvalue="ipdb" />
+            <item index="14" class="java.lang.String" itemvalue="pytest-html" />
+            <item index="15" class="java.lang.String" itemvalue="pyvirtualdisplay" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="TestScript.test_login.login1" />
+          <option value="TestScript.test_login.TestCaseAll" />
+          <option value="TestScript.test_login.*" />
+          <option value="TestCasesRepository.TC_Search_Python.*" />
+          <option value="LogUtility" />
+          <option value="TestReport" />
+          <option value="TestCaseInfo" />
+          <option value="CommonConfiguration" />
+          <option value="GoogleMainPage" />
+          <option value="automation_framework_demo.testsuites.test_baidu_search.*" />
+          <option value="pageobjects.baidu_homepage.input_pass" />
+          <option value="StringIO" />
+          <option value="testsuites.TestRunner.*" />
+          <option value="HTMLTestRunner" />
+          <option value="testsuites.test_shangji_view.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
